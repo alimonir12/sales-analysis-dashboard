@@ -4,9 +4,9 @@ An interactive sales dashboard for exploring sales performance, orders, discount
 
 ## Dashboard Preview
 
-Save the dashboard screenshot in the repository as `dashboard.png`, then add it here:
+![Sales Analysis Dashboard](<img width="394" height="296" alt="dashboard" src="https://github.com/user-attachments/assets/8998610d-a184-42db-8d15-34ca139195e8" />
 
-![Sales Analysis Dashboard](dashboard.png)
+)
 
 ## Project Overview
 
@@ -51,5 +51,5 @@ This project demonstrates a practical data analysis workflow: exploring and prep
 
 ## Author
 
-Created by **[Your Name]**.  
-Connect with me on [LinkedIn](YOUR-LINKEDIN-URL).
+Created by **[ali monir]**.  
+Connect with me on [LinkedIn](https://www.linkedin.com/in/ali-monir-204171359?utm_source=share_via&utm_content=profile&utm_medium=member_android).
